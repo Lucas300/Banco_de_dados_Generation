@@ -1,0 +1,10 @@
+Atividade 01 - https://github.com/Lucas300/Banco_de_dados_Generation/blob/main/Atividades_01_02_03/atividade01.sql
+
+
+Atividade 02 - https://github.com/Lucas300/Banco_de_dados_Generation/blob/main/Atividades_01_02_03/atividade02.sql
+
+
+Atividade 03 - https://github.com/Lucas300/Banco_de_dados_Generation/blob/main/Atividades_01_02_03/atividade03.sql
+
+
+Repositório com todas as atividades - https://github.com/Lucas300/Banco_de_dados_Generation/tree/main/Atividades_01_02_03
